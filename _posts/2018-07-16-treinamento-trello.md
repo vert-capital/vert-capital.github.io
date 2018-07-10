@@ -4,39 +4,47 @@ layout: post
 Treinamento sobre o Trello realizado no dia 16/07.
 
 
-# [Indice](#indice)
-* [introdução](#introducao)
-* [Trello](#trello)
+Link para o material: [https://bit.ly/2L58HFy](https://bit.ly/2L58HFy)
+
+# [Indice][indice]
+* [Introducao][Introducao]
+* [Trello][Trello]
 * [Atalhos](#atalhos)
+* [Fontes][Fontes]
+
+# [Introducao][Introducao]
+[voltar][Voltar]
+
+Criado em 2011, o Trello é um sistema de quadro virtual para gerenciar tarefas e permitir uma organização maior entre as equipes, de uma forma dinâmica.
+
+Segue o método [kanban][kanban], comumente utilizado na metodologia do [Scrum][scrum]. Ele permite a criação de colunas(quantas acharmos necessárias para o projeto),
+onde podemos inserir de **0 a N**   *cards*, estes *cards* são as tarefas em si do projeto.
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequuntur magnam, excepturi aliquid ex itaque esse est vero natus quae optio aperiam soluta voluptatibus corporis atque iste neque sit tempora!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequuntur magnam, excepturi aliquid ex itaque esse est vero natus quae optio aperiam soluta voluptatibus corporis atque iste neque sit tempora!
-
-
-# [introducao](#introducao)
-[voltar](#indice)
+# [Trello][Trello]
+[voltar][Voltar]
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequuntur magnam, excepturi aliquid ex itaque esse est vero natus quae optio aperiam soluta voluptatibus corporis atque iste neque sit tempora!
+# [Atalhos][atalhos]
+[voltar][Voltar]
 
 
-# [Trello](#trello)
-[voltar](#indice)
+# [Fontes][fontes]
+[voltar][Voltar]
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?
+* [Canaltech][canaltech]
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!
 
-# [Atalhos](#atalhos)
-[voltar](#indice)
+[Indice]: #indice
+[Introducao]: #introducao
+[Trello]: #trello
+[Voltar]: #indice
+[Atalhos]: #atalhos
+[Fontes]: #fontes
+
+[kanban]: https://pt.wikipedia.org/wiki/Kanban
+[scrum]: http://br.blog.trello.com/scrum-metodologia-agil/
+[canaltech]: https://canaltech.com.br/utilitarios/gerencie-equipes-e-tarefas-com-o-trello-e-de-adeus-aos-post-its/
