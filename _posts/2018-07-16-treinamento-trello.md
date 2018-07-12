@@ -8,6 +8,7 @@ Treinamento sobre o Trello realizado no dia 16/07.
 * [Cards][Cards]
 * [Atalhos](#atalhos)
 * [Fontes][Fontes]
+* [Templates][templates]
 
 # [Introducao][Introducao]
 [voltar][Voltar]
@@ -21,19 +22,30 @@ onde podemos inserir de **0 a N** cards.
 # [Cards][Cards]
 [voltar][Voltar]
 
-Os cards são onde especificamos uma tarefa, nele podemos:
+![boa imagem]({{ site.url }}/assets/img/img-test.png)
+
+Os *cards* são onde especificamos uma tarefa, nele podemos:
 * Inserir uma descrição, contendo o que deverá ser feito na tarefa.
 * Atribuir membros responsáveis pela execução.
 * Inserir [labels][labels-ref].
 * Definirmos uma data limite para a execução da tarefa.
-* Inserir arquivos(.pdf, png, jpg, etc.).
-* Atribuir alguém como observador deste card.
-* Inserir comentários através do próprio card, ou enviando um e-mail ao card específico.
+* Inserir arquivos(.pdf, .png, .jpg, etc.).
+* [Inserir comentários através do próprio card, ou enviando um e-mail ao card específico][passo-a-passo].
 
 # [Atalhos][atalhos]
 [voltar][Voltar]
 
 ![cheat-sheet][cheat-sheet-trello]
+
+# [Templates][templates]
+[voltar][Voltar]
+
+[Aqui][trello-boards] há alguns quadros alguns *boards* para inspirar-se na organização de seus projetos.
+
+
+# [passo a passo][passo-a-passo]
+[voltar][voltar]
+
 
 # [Fontes][fontes]
 [voltar][Voltar]
@@ -48,6 +60,8 @@ Os cards são onde especificamos uma tarefa, nele podemos:
 [Voltar]: #indice
 [Atalhos]: #atalhos
 [Fontes]: #fontes
+[Templates]: #templates
+[passo-a-passo]: #passo-a-passo
 
 [kanban]: https://pt.wikipedia.org/wiki/Kanban
 [scrum]: http://br.blog.trello.com/scrum-metodologia-agil/
@@ -56,3 +70,4 @@ Os cards são onde especificamos uma tarefa, nele podemos:
 [cheat-sheet-ref]: https://blog.trello.com/trello-keyboard-shortcuts-infographic
 [daprafazer-ref]: http://www.daparafazer.com.br/trello/
 [labels-ref]: https://help.trello.com/article/797-adding-labels-to-cards
+[trello-boards]: https://trello.com/inspiration
