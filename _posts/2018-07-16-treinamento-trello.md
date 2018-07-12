@@ -27,14 +27,13 @@ onde podemos inserir de **0 a N** cards.
 As *boards* representam o ambiente de trabalho onde as tarefas serão realizadas, reunindo os membros da equipe e definindo estágios de desenvolvimento para as tarefas. Nelas podemos:
 * Selecionar papéis de parede ou cores de fundo.
 * Definir as *listas*, que representam os estágios de desenvolvimento para as tarefas.
-* [Adicionar usuários à equipe][adicionar-usuarios-a-equipe]
+* [Adicionar usuários à equipe][inserindo-membros-a-uma-board]
 
 # [Cards][Cards]
 [voltar][Voltar]
 
 Os *cards* são onde especificamos uma tarefa. Nele podemos:
 * Inserir uma descrição, contendo o que deverá ser feito na tarefa.
-* [Adicionar membros à Board][inserindo-membros-a-uma-board].
 * Inserir [labels][labels-ref].
 * Atribuir membros responsáveis pela execução.
 * Definirmos uma data limite para a execução da tarefa.
@@ -72,7 +71,7 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 
 
 ## [Inserindo membros a uma Board][inserindo-membros-a-uma-board]
-[voltar][Cards]
+[voltar][Boards]
 
 1. Clique no ícone, digite o nome do usuário e pressione Enter
 ![add_user]({{ site.url }}/assets/img/treinamento-trello/trello_add_user_1.png)
@@ -95,7 +94,6 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 [enviando-um-comentario-por-email]: #enviando-um-comentario-por-email
 [inserindo-membros-a-uma-board]: #inserindo-membros-a-uma-board
 [Boards]: #boards
-[adicionar-usuarios-a-equipe]: #adicionar-usuarios-a-equipe
 
 [kanban]: https://pt.wikipedia.org/wiki/Kanban
 [scrum]: http://br.blog.trello.com/scrum-metodologia-agil/
