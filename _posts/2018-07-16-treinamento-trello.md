@@ -5,24 +5,34 @@ Treinamento sobre o Trello realizado no dia 16/07.
 
 # [Indice][indice]
 * [Introducao][Introducao]
+* [Boards][Boards]
 * [Cards][Cards]
 * [Atalhos][Atalhos]
-* [Fontes][Fontes]
+* [passo a passo][passo-a-passo]
 * [Templates][templates]
+* [Fontes][Fontes]
+
 
 # [Introducao][Introducao]
 [voltar][Voltar]
 
 Criado em 2011, o Trello é um sistema de quadro virtual para gerenciar tarefas e permitir uma organização maior entre as equipes, de uma forma dinâmica.
 
-Segue o método [kanban][kanban], comumente utilizado na metodologia do [Scrum][scrum]. Ele permite a criação de colunas(quantas acharmos necessárias para o projeto),
+Segue o método [kanban][kanban], comumente utilizado na metodologia do [Scrum][scrum]. Ele permite a criação de colunas (quantas acharmos necessárias para o projeto),
 onde podemos inserir de **0 a N** cards.
 
+# [Boards][Boards]
+[voltar][Voltar]
+
+As *boards* representam o ambiente de trabalho onde as tarefas serão realizadas, reunindo os membros da equipe e definindo estágios de desenvolvimento para as tarefas. Nelas podemos:
+* Selecionar papéis de parede ou cores de fundo.
+* Definir as *listas*, que representam os estágios de desenvolvimento para as tarefas.
+* [Adicionar usuários à equipe][adicionar-usuarios-a-equipe]
 
 # [Cards][Cards]
 [voltar][Voltar]
 
-Os *cards* são onde especificamos uma tarefa, nele podemos:
+Os *cards* são onde especificamos uma tarefa. Nele podemos:
 * Inserir uma descrição, contendo o que deverá ser feito na tarefa.
 * [Adicionar membros à Board][inserindo-membros-a-uma-board].
 * Inserir [labels][labels-ref].
@@ -64,6 +74,9 @@ Os *cards* são onde especificamos uma tarefa, nele podemos:
 ## [Inserindo membros a uma Board][inserindo-membros-a-uma-board]
 [voltar][Cards]
 
+1. Clique no ícone, digite o nome do usuário e pressione Enter
+![add_user]({{ site.url }}/assets/img/treinamento-trello/trello_add_user_1.png)
+
 # [Fontes][fontes]
 [voltar][Voltar]
 
@@ -81,6 +94,8 @@ Os *cards* são onde especificamos uma tarefa, nele podemos:
 [passo-a-passo]: #passo-a-passo
 [enviando-um-comentario-por-email]: #enviando-um-comentario-por-email
 [inserindo-membros-a-uma-board]: #inserindo-membros-a-uma-board
+[Boards]: #boards
+[adicionar-usuarios-a-equipe]: #adicionar-usuarios-a-equipe
 
 [kanban]: https://pt.wikipedia.org/wiki/Kanban
 [scrum]: http://br.blog.trello.com/scrum-metodologia-agil/
