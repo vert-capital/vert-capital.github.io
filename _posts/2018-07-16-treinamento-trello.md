@@ -22,8 +22,6 @@ onde podemos inserir de **0 a N** cards.
 # [Cards][Cards]
 [voltar][Voltar]
 
-![boa imagem]({{ site.url }}/assets/img/img-test.png)
-
 Os *cards* são onde especificamos uma tarefa, nele podemos:
 * Inserir uma descrição, contendo o que deverá ser feito na tarefa.
 * Adicionar membros à Board.
