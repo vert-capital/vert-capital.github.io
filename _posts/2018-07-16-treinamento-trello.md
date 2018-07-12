@@ -24,12 +24,12 @@ onde podemos inserir de **0 a N** cards.
 
 Os *cards* são onde especificamos uma tarefa, nele podemos:
 * Inserir uma descrição, contendo o que deverá ser feito na tarefa.
-* Adicionar membros à Board.
-* Atribuir membros responsáveis pela execução.
+* [Adicionar membros à Board][inserindo-membros-a-uma-board].
 * Inserir [labels][labels-ref].
+* Atribuir membros responsáveis pela execução.
 * Definirmos uma data limite para a execução da tarefa.
 * Inserir arquivos(.pdf, .png, .jpg, etc.).
-* [Inserir comentários através do próprio card, ou enviando um e-mail ao card específico][enviando-um-comentario-por-email].
+* Inserir comentários através do próprio card, ou [enviando um e-mail ao card específico][enviando-um-comentario-por-email].
 
 # [Atalhos][atalhos]
 [voltar][Voltar]
@@ -61,6 +61,9 @@ Os *cards* são onde especificamos uma tarefa, nele podemos:
 ![passo-4]({{ site.url }}/assets/img/treinamento-trello/trello_email_4.png)
 
 
+## [Inserindo membros a uma Board][inserindo-membros-a-uma-board]
+[voltar][Cards]
+
 # [Fontes][fontes]
 [voltar][Voltar]
 
@@ -77,6 +80,7 @@ Os *cards* são onde especificamos uma tarefa, nele podemos:
 [Templates]: #templates
 [passo-a-passo]: #passo-a-passo
 [enviando-um-comentario-por-email]: #enviando-um-comentario-por-email
+[inserindo-membros-a-uma-board]: #inserindo-membros-a-uma-board
 
 [kanban]: https://pt.wikipedia.org/wiki/Kanban
 [scrum]: http://br.blog.trello.com/scrum-metodologia-agil/
