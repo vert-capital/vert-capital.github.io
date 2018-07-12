@@ -6,7 +6,7 @@ Treinamento sobre o Trello realizado no dia 16/07.
 # [Indice][indice]
 * [Introducao][Introducao]
 * [Cards][Cards]
-* [Atalhos](#atalhos)
+* [Atalhos][Atalhos]
 * [Fontes][Fontes]
 * [Templates][templates]
 
@@ -31,7 +31,7 @@ Os *cards* são onde especificamos uma tarefa, nele podemos:
 * Inserir [labels][labels-ref].
 * Definirmos uma data limite para a execução da tarefa.
 * Inserir arquivos(.pdf, .png, .jpg, etc.).
-* [Inserir comentários através do próprio card, ou enviando um e-mail ao card específico][comentario-email].
+* [Inserir comentários através do próprio card, ou enviando um e-mail ao card específico][enviando-um-comentario-por-email].
 
 # [Atalhos][atalhos]
 [voltar][Voltar]
@@ -47,7 +47,7 @@ Os *cards* são onde especificamos uma tarefa, nele podemos:
 # [passo a passo][passo-a-passo]
 
 
-## [Enviando comentário por e-mail][comentario-email]
+## [Enviando um comentario por email][enviando-um-comentario-por-email]
 [voltar][Cards]
 
 1. Dentro do card, clique em "Share and more..."
@@ -61,6 +61,7 @@ Os *cards* são onde especificamos uma tarefa, nele podemos:
 
 4. Visualização do comentário dentro do Card
 ![passo-4]({{ site.url }}/assets/img/treinamento-trello/trello_email_4.png)
+
 
 # [Fontes][fontes]
 [voltar][Voltar]
@@ -77,7 +78,7 @@ Os *cards* são onde especificamos uma tarefa, nele podemos:
 [Fontes]: #fontes
 [Templates]: #templates
 [passo-a-passo]: #passo-a-passo
-[Enviando comentário por e-mail]: #comentario-email
+[enviando-um-comentario-por-email]: #enviando-um-comentario-por-email
 
 [kanban]: https://pt.wikipedia.org/wiki/Kanban
 [scrum]: http://br.blog.trello.com/scrum-metodologia-agil/
