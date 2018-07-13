@@ -70,13 +70,13 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 ## [Criando um time][criando-um-time]
 [voltar][Teams]
 
-1. Passo 1...
+1. Criar time
 ![criando-time-1]({{ site.url }}/assets/img/treinamento-trello/criar_time_1.png)
 
-2. Passo 2...
+2. Adicionar membros ao time
 ![criando-time-2]({{ site.url }}/assets/img/treinamento-trello/criar_time_2.png)
 
-3. Passo 3...
+3. Administrar membros do time
 ![criando-time-3]({{ site.url }}/assets/img/treinamento-trello/criar_time_3.png)
 
 ## [Enviando um comentario por email][enviando-um-comentario-por-email]
