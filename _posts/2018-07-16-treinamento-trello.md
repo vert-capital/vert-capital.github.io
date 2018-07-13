@@ -17,7 +17,7 @@ Treinamento sobre o Trello realizado no dia 16/07.
 # [Introducao][Introducao]
 [voltar][Voltar]
 
-Criado em 2011, o Trello é um sistema de quadro virtual para gerenciar tarefas e permitir uma organização maior entre as equipes, de uma forma dinâmica.
+Criado em 2011, o Trello é um sistema de quadro virtual para gerenciar tarefas e permitir uma organização maior entre as equipes de uma forma dinâmica.
 
 Segue o método [kanban][kanban], comumente utilizado na metodologia do [Scrum][scrum]. Ele permite a criação de colunas (quantas acharmos necessárias para o projeto),
 onde podemos inserir de **0 a N** cards.
@@ -25,11 +25,11 @@ onde podemos inserir de **0 a N** cards.
 # [Teams][Teams]
 [voltar][Voltar]
 
-Teams é uma maneira de agrupar os membros e os *boards*, facilitando a maneira de compartilhar entre os membros.
+*Teams* permite agrupar usuários e *boards*, facilitando a maneira como tarefas e informações são compartilhadas entre os usuários membros de um time.
 
 Algumas vantages de um *team*:
 * Manter os *boards* privados, sendo visível somente aos membros desse *team*.
-* Permitir que os membros se insiram nos boards, sem a necessidade de convida-los a todos os *Boards* criados.
+* Permitir que os membros se insiram nos boards, sem a necessidade de convida-los a todos os *boards* criados.
 
 #### [Como criar um time e inserir membros nele.][criando-um-time]
 
@@ -37,9 +37,9 @@ Algumas vantages de um *team*:
 # [Boards][Boards]
 [voltar][Voltar]
 
-As *boards* representam o ambiente de trabalho onde as tarefas serão realizadas, reunindo os membros da equipe e definindo estágios de desenvolvimento para as tarefas. Nelas podemos:
+Os *boards* representam o ambiente de trabalho onde as tarefas serão realizadas, reunindo os membros da equipe e definindo estágios de desenvolvimento para as tarefas. Nelas podemos:
 * Selecionar papéis de parede ou cores de fundo.
-* Definir as *listas*, que representam os estágios de desenvolvimento para as tarefas.
+* Definir as listas, que representam os estágios de desenvolvimento para as tarefas.
 
 [Criando um board][criando-um-board]
 
@@ -48,11 +48,11 @@ As *boards* representam o ambiente de trabalho onde as tarefas serão realizadas
 # [Cards][Cards]
 [voltar][Voltar]
 
-Os *cards* são onde especificamos uma tarefa. Nele podemos:
+Os *cards* representam tarefas e suas especificações. Nele podemos:
 * Inserir uma descrição, contendo o que deverá ser feito na tarefa.
 * Inserir [labels][labels-ref].
-* Atribuir membros responsáveis pela execução.
-* Definirmos uma data limite para a execução da tarefa.
+* Atribuir membros responsáveis pela execução da tarefa.
+* Definirmos um prazo para a execução da tarefa.
 * Inserir arquivos(.pdf, .png, .jpg, etc.).
 * Inserir comentários através do próprio card, ou [enviando um e-mail ao card específico][enviando-um-comentario-por-email].
 
@@ -64,7 +64,7 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 # [Templates][templates]
 [voltar][Voltar]
 
-[Aqui][trello-boards] há alguns quadros alguns *boards* para inspirar-se na organização de seus projetos.
+[Aqui][trello-boards] há alguns *boards* para inspirar-se na organização de seus projetos.
 
 
 # [passo a passo][passo-a-passo]
@@ -83,7 +83,7 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 
 ## [Criando um board][criando-um-board]
 [voltar][Boards]
-1. Passo 1...
+1. Criando boards pessoais ou dentro de times
 ![criando-board]({{ site.url }}/assets/img/treinamento-trello/criar_boards.png)
 
 ## [Inserindo membros a um Board][inserindo-membros-a-um-board]
@@ -98,10 +98,10 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 1. Dentro do card, clique em "Share and more..."
 ![passo-1]({{ site.url }}/assets/img/treinamento-trello/trello_email_1.png)
 
-2. Na nova janela, copie o código no campo "Email for this card"
+2. Na nova janela, copie o código do campo "Email for this card"
 ![passo-2]({{ site.url }}/assets/img/treinamento-trello/trello_email_2.png)
 
-3. No seu e-mail, abra uma nova mensagem, cole o código no campo do destinatário e escreva o comentário no corpo do e-mail e o título no assunto
+3. No seu e-mail, abra uma nova mensagem, cole o código no campo do destinatário, escreva o título no assunto e o comentário no corpo do e-mail
 ![passo-3]({{ site.url }}/assets/img/treinamento-trello/trello_email_3.png)
 
 4. Visualização do comentário dentro do Card
