@@ -40,7 +40,9 @@ Algumas vantages de um *team*:
 As *boards* representam o ambiente de trabalho onde as tarefas serão realizadas, reunindo os membros da equipe e definindo estágios de desenvolvimento para as tarefas. Nelas podemos:
 * Selecionar papéis de parede ou cores de fundo.
 * Definir as *listas*, que representam os estágios de desenvolvimento para as tarefas.
-* [Adicionar usuários à equipe][inserindo-membros-a-uma-board]
+
+[Criando uma Board][criando-uma-board]
+[Adicionar usuários ao Board][inserindo-membros-a-uma-board]
 
 # [Cards][Cards]
 [voltar][Voltar]
@@ -67,7 +69,7 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 # [passo a passo][passo-a-passo]
 
 
-## [Criando um time][criando-um-time]
+## [Como criar um time e inserindo membros nele][criando-um-time]
 [voltar][Teams]
 
 1. Passo 1...
@@ -78,6 +80,9 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 
 3. Passo 3...
 ![criando-time-3]({{ site.url }}/assets/img/treinamento-trello/criar_time_3.png)
+
+
+## [Como criar uma board][criando-uma-board]
 
 ## [Enviando um comentario por email][enviando-um-comentario-por-email]
 [voltar][Cards]
@@ -123,6 +128,7 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 [criando-um-time]: #criando-um-time
 [Boards]: #boards
 [Teams]: #teams
+[criando-uma-board]: #criando-uma-board 
 
 [kanban]: https://pt.wikipedia.org/wiki/Kanban
 [scrum]: http://br.blog.trello.com/scrum-metodologia-agil/
