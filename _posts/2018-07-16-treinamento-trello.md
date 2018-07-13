@@ -3,18 +3,18 @@ layout: post
 ---
 Treinamento sobre o Trello realizado no dia 16/07.
 
-# [Indice][indice]
-* [Introducao][Introducao]
+# [Índice][índice]
+* [Introdução][Introdução]
 * [Teams][Teams]
 * [Boards][Boards]
 * [Cards][Cards]
 * [Atalhos][Atalhos]
-* [passo a passo][passo-a-passo]
+* [Passo a passo][passo-a-passo]
 * [Templates][templates]
 * [Fontes][Fontes]
 
 
-# [Introducao][Introducao]
+# [Introdução][Introdução]
 [voltar][Voltar]
 
 Criado em 2011, o Trello é um sistema de quadro virtual para gerenciar tarefas e permitir uma organização maior entre as equipes de uma forma dinâmica.
@@ -29,7 +29,7 @@ onde podemos inserir de **0 a N** cards.
 
 Algumas vantages de um *team*:
 * Manter os *boards* privados, sendo visível somente aos membros desse *team*.
-* Permitir que os membros se insiram nos boards, sem a necessidade de convida-los a todos os *boards* criados.
+* Permitir que os membros se insiram nos boards, sem a necessidade de convidá-los a todos os *boards* criados.
 
 #### [Como criar um time e inserir membros nele.][criando-um-time]
 
@@ -54,7 +54,7 @@ Os *cards* representam tarefas e suas especificações. Nele podemos:
 * Atribuir membros responsáveis pela execução da tarefa.
 * Definirmos um prazo para a execução da tarefa.
 * Inserir arquivos(.pdf, .png, .jpg, etc.).
-* Inserir comentários através do próprio card, ou [enviando um e-mail ao card específico][enviando-um-comentario-por-email].
+* Inserir comentários através do próprio card, ou [enviando um e-mail ao card específico][enviando-um-comentario-por-e-mail].
 
 # [Atalhos][atalhos]
 [voltar][Voltar]
@@ -67,7 +67,8 @@ Os *cards* representam tarefas e suas especificações. Nele podemos:
 [Aqui][trello-boards] há alguns *boards* para inspirar-se na organização de seus projetos.
 
 
-# [passo a passo][passo-a-passo]
+# [Passo a passo][passo-a-passo]
+[voltar][Voltar]
 
 ## [Criando um time][criando-um-time]
 [voltar][Teams]
@@ -92,7 +93,7 @@ Os *cards* representam tarefas e suas especificações. Nele podemos:
 1. Clique no ícone, digite o nome do usuário e pressione Enter
 ![add_user]({{ site.url }}/assets/img/treinamento-trello/trello_add_user_1.png)
 
-## [Enviando um comentario por email][enviando-um-comentario-por-email]
+## [Enviando um comentario por e-mail][enviando-um-comentario-por-e-mail]
 [voltar][Cards]
 
 1. Dentro do card, clique em "Share and more..."
@@ -101,7 +102,7 @@ Os *cards* representam tarefas e suas especificações. Nele podemos:
 2. Na nova janela, copie o código do campo "Email for this card"
 ![passo-2]({{ site.url }}/assets/img/treinamento-trello/trello_email_2.png)
 
-3. No seu e-mail, abra uma nova mensagem, cole o código no campo do destinatário, escreva o título no assunto e o comentário no corpo do e-mail
+3. No seu e-mail, abra uma nova mensagem, cole o código no campo do destinatário, escreva o título do comentário no assunto e o comentário em si no corpo do e-mail
 ![passo-3]({{ site.url }}/assets/img/treinamento-trello/trello_email_3.png)
 
 4. Visualização do comentário dentro do Card
@@ -116,15 +117,15 @@ Os *cards* representam tarefas e suas especificações. Nele podemos:
 * [Trello Keyboard Shortcuts: An Infographic Cheat Sheet][cheat-sheet-ref]
 * [O que é Trello e para que serve?][daprafazer-ref]
 
-[Indice]: #indice
-[Introducao]: #introducao
+[Índice]: #índice
+[Introdução]: #introdução
 [Cards]: #cards
-[Voltar]: #indice
+[Voltar]: #índice
 [Atalhos]: #atalhos
 [Fontes]: #fontes
 [Templates]: #templates
 [passo-a-passo]: #passo-a-passo
-[enviando-um-comentario-por-email]: #enviando-um-comentario-por-email
+[enviando-um-comentario-por-e-mail]: #enviando-um-comentario-por-e-mail
 [inserindo-membros-a-um-board]: #inserindo-membros-a-um-board
 [criando-um-time]: #criando-um-time
 [criando-um-board]: #criando-um-board
