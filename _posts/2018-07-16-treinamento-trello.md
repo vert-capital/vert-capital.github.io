@@ -5,6 +5,7 @@ Treinamento sobre o Trello realizado no dia 16/07.
 
 # [Indice][indice]
 * [Introducao][Introducao]
+* [Teams][Teams]
 * [Boards][Boards]
 * [Cards][Cards]
 * [Atalhos][Atalhos]
@@ -20,6 +21,18 @@ Criado em 2011, o Trello é um sistema de quadro virtual para gerenciar tarefas 
 
 Segue o método [kanban][kanban], comumente utilizado na metodologia do [Scrum][scrum]. Ele permite a criação de colunas (quantas acharmos necessárias para o projeto),
 onde podemos inserir de **0 a N** cards.
+
+# [Teams][Teams]
+[voltar][Voltar]
+
+Teams é uma maneira de agrupar os membros e os *boards*, facilitando a maneira de compartilhar entre os membros.
+
+Algumas vantages de um *team*:
+* Manter os *boards* privados, sendo visível somente aos membros desse *team*.
+* Permitir que os membros se insiram nos boards, sem a necessidade de convida-los a todos os *Boards* criados.
+
+#### [Como criar um time e inserir membros nele.][criando-um-time]
+
 
 # [Boards][Boards]
 [voltar][Voltar]
@@ -54,6 +67,18 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 # [passo a passo][passo-a-passo]
 
 
+## [Criando um time][criando-um-time]
+[voltar][Teams]
+
+1. Passo 1...
+![criando-time-1]({{ site.url }}/assets/img/treinamento-trello/criar_time_1.png)
+
+2. Passo 2...
+![criando-time-2]({{ site.url }}/assets/img/treinamento-trello/criar_time_2.png)
+
+3. Passo 3...
+![criando-time-3]({{ site.url }}/assets/img/treinamento-trello/criar_time_3.png)
+
 ## [Enviando um comentario por email][enviando-um-comentario-por-email]
 [voltar][Cards]
 
@@ -68,6 +93,8 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 
 4. Visualização do comentário dentro do Card
 ![passo-4]({{ site.url }}/assets/img/treinamento-trello/trello_email_4.png)
+
+
 
 
 ## [Inserindo membros a uma Board][inserindo-membros-a-uma-board]
@@ -93,7 +120,9 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 [passo-a-passo]: #passo-a-passo
 [enviando-um-comentario-por-email]: #enviando-um-comentario-por-email
 [inserindo-membros-a-uma-board]: #inserindo-membros-a-uma-board
+[criando-um-time]: #criando-um-time
 [Boards]: #boards
+[Teams]: #teams
 
 [kanban]: https://pt.wikipedia.org/wiki/Kanban
 [scrum]: http://br.blog.trello.com/scrum-metodologia-agil/
