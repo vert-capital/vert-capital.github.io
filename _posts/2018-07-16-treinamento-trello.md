@@ -40,7 +40,10 @@ Algumas vantages de um *team*:
 As *boards* representam o ambiente de trabalho onde as tarefas serão realizadas, reunindo os membros da equipe e definindo estágios de desenvolvimento para as tarefas. Nelas podemos:
 * Selecionar papéis de parede ou cores de fundo.
 * Definir as *listas*, que representam os estágios de desenvolvimento para as tarefas.
-* [Adicionar usuários à equipe][inserindo-membros-a-uma-board]
+
+[Criando um board][criando-um-board]
+
+[Adicionar usuários ao board][inserindo-membros-a-um-board]
 
 # [Cards][Cards]
 [voltar][Voltar]
@@ -66,7 +69,6 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 
 # [passo a passo][passo-a-passo]
 
-
 ## [Criando um time][criando-um-time]
 [voltar][Teams]
 
@@ -78,6 +80,17 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 
 3. Administrar membros do time
 ![criando-time-3]({{ site.url }}/assets/img/treinamento-trello/criar_time_3.png)
+
+## [Criando um board][criando-um-board]
+[voltar][Boards]
+1. Passo 1...
+![criando-board]({{ site.url }}/assets/img/treinamento-trello/criar_boards.png)
+
+## [Inserindo membros a um Board][inserindo-membros-a-um-board]
+[voltar][Boards]
+
+1. Clique no ícone, digite o nome do usuário e pressione Enter
+![add_user]({{ site.url }}/assets/img/treinamento-trello/trello_add_user_1.png)
 
 ## [Enviando um comentario por email][enviando-um-comentario-por-email]
 [voltar][Cards]
@@ -96,13 +109,6 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 
 
 
-
-## [Inserindo membros a uma Board][inserindo-membros-a-uma-board]
-[voltar][Boards]
-
-1. Clique no ícone, digite o nome do usuário e pressione Enter
-![add_user]({{ site.url }}/assets/img/treinamento-trello/trello_add_user_1.png)
-
 # [Fontes][fontes]
 [voltar][Voltar]
 
@@ -119,8 +125,9 @@ Os *cards* são onde especificamos uma tarefa. Nele podemos:
 [Templates]: #templates
 [passo-a-passo]: #passo-a-passo
 [enviando-um-comentario-por-email]: #enviando-um-comentario-por-email
-[inserindo-membros-a-uma-board]: #inserindo-membros-a-uma-board
+[inserindo-membros-a-um-board]: #inserindo-membros-a-um-board
 [criando-um-time]: #criando-um-time
+[criando-um-board]: #criando-um-board
 [Boards]: #boards
 [Teams]: #teams
 
