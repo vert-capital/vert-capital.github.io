@@ -19,8 +19,7 @@ Treinamento sobre o Trello realizado no dia 16/07.
 
 Criado em 2011, o Trello é um sistema de quadro virtual para gerenciar tarefas e permitir uma organização maior entre as equipes de uma forma dinâmica.
 
-Segue o método [kanban][kanban], comumente utilizado na metodologia do [Scrum][scrum]. 
-Ele segue o preceito de [metodologias ágeis][Agile_software_development], em particular o [Kanban][Kanban] (baseado num método da Toyota de gestão de inventário), ocasionalmente sendo usado também com [Scrum][Scrum]. Ele permite a criação de colunas representando estados, por onde transitam cartões representando tarefas.
+Ele segue o preceito de metodologias [metodologias ágeis][agile], em particular o [Kanban][Kanban] (baseado num método da Toyota de gestão de inventário), ocasionalmente sendo usado também com [Scrum][Scrum]. Ele permite a criação de colunas representando estados, por onde transitam cartões representando tarefas.
 
 # [Teams][Teams]
 [voltar][Voltar]
@@ -152,3 +151,4 @@ Alguns *templates* prontos, com boas ideias de organização de um *Board*:
 [integração-de-novos-funcionários]: https://trello.com/b/eB8UlIYS/integra%C3%A7%C3%A3o-de-novos-funcion%C3%A1rios
 [visão-geral-da-empresa]: https://trello.com/b/I6QobrfW/visão-geral-da-empresa
 [organização-de-estudos]: https://trello.com/b/qjpysH1M/enem
+[agile]: https://en.wikipedia.org/wiki/Agile_software_development
