@@ -64,7 +64,14 @@ Os *cards* representam tarefas e suas especificações. Nele podemos:
 # [Templates][templates]
 [voltar][Voltar]
 
-[Aqui][trello-boards] há alguns *boards* para inspirar-se na organização de seus projetos.
+Alguns *templates* prontos, com boas ideias de organização de um *Board*:
+
+1. [Calendário Editorial][calendário-editorial]
+2. [Integração de novos funcionários][integração-de-novos-funcionários]
+3. [Visão geral da empresa][visão-geral-da-empresa]
+4. [Organização de estudos][organização-de-estudos]
+
+[Aqui][trello-boards] há alguns outros *boards* para inspirar-se na organização de seus projetos.
 
 
 # [Passo a passo][passo-a-passo]
@@ -140,3 +147,7 @@ Os *cards* representam tarefas e suas especificações. Nele podemos:
 [daprafazer-ref]: http://www.daparafazer.com.br/trello/
 [labels-ref]: https://help.trello.com/article/797-adding-labels-to-cards
 [trello-boards]: https://trello.com/inspiration
+[calendário-editorial]: https://trello.com/b/cDmI38H8/calend%C3%A1rio-editorial
+[integração-de-novos-funcionários]: https://trello.com/b/eB8UlIYS/integra%C3%A7%C3%A3o-de-novos-funcion%C3%A1rios
+[visão-geral-da-empresa]: https://trello.com/b/I6QobrfW/visão-geral-da-empresa
+[organização-de-estudos]: https://trello.com/b/qjpysH1M/enem
