@@ -12,6 +12,7 @@ Treinamento sobre o Trello realizado no dia 16/07.
 * [Passo a passo][passo-a-passo]
 * [Templates][templates]
 * [Fontes][Fontes]
+* [Armadilhas][Armadilhas]
 
 
 # [Introdução][Introdução]
@@ -61,6 +62,15 @@ Os *cards* representam tarefas e suas especificações. Nele podemos:
 [voltar][Voltar]
 
 ![cheat-sheet][cheat-sheet-trello]
+
+# [Armadilhas][Armadilhas]
+[voltar][Voltar]
+
+Existem algumas armadilhas na organização do Trello:
+* Excesso de colunas
+* Labels vs Colunas
+* Colunas subjetivas
+* *Timing* de tarefas (longas ou curtas demais)
 
 # [Templates][templates]
 [voltar][Voltar]
@@ -117,13 +127,7 @@ Alguns *templates* prontos, com boas ideias de organização de um *Board*:
 4. Visualização do comentário dentro do Card
 ![passo-4]({{ site.url }}/assets/img/treinamento-trello/trello_email_4.png)
 
-## Armadilhas
 
-Existem algumas armadilhas na organização do Trello:
-* Excesso de colunas
-* Labels vs Colunas
-* Colunas subjetivas
-* *Timing* de tarefas (longas ou curtas demais)
 
 
 
@@ -148,6 +152,7 @@ Existem algumas armadilhas na organização do Trello:
 [criando-um-board]: #criando-um-board
 [Boards]: #boards
 [Teams]: #teams
+[Armadilhas]: #armadilhas
 
 [kanban]: https://pt.wikipedia.org/wiki/Kanban
 [scrum]: http://br.blog.trello.com/scrum-metodologia-agil/
