@@ -9,10 +9,10 @@ Treinamento sobre o Trello realizado no dia 16/07.
 * [Boards][Boards]
 * [Cards][Cards]
 * [Atalhos][Atalhos]
-* [Passo a passo][passo-a-passo]
-* [Templates][templates]
-* [Fontes][Fontes]
 * [Armadilhas][Armadilhas]
+* [Templates][templates]
+* [Passo a passo][passo-a-passo]
+* [Fontes][Fontes]
 
 
 # [Introdução][Introdução]
