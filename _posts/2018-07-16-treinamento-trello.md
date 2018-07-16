@@ -91,6 +91,7 @@ Alguns *templates* prontos, com boas ideias de organização de um *Board*:
 
 ## [Criando um board][criando-um-board]
 [voltar][Boards]
+
 1. Criando boards pessoais ou dentro de times
 ![criando-board]({{ site.url }}/assets/img/treinamento-trello/criar_boards.png)
 
@@ -106,7 +107,7 @@ Alguns *templates* prontos, com boas ideias de organização de um *Board*:
 1. Dentro do card, clique em "Share and more..."
 ![passo-1]({{ site.url }}/assets/img/treinamento-trello/trello_email_1.png)
 
-2. Na nova janela, copie o código do campo "Email for this card"
+2. Na nova janela, copie o código do campo "Email for this card"<br>
 ![passo-2]({{ site.url }}/assets/img/treinamento-trello/trello_email_2.png)
 
 3. No seu e-mail, abra uma nova mensagem, cole o código no campo do destinatário, escreva o título do comentário no assunto e o comentário em si no corpo do e-mail
