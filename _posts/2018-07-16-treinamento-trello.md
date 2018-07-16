@@ -24,7 +24,7 @@ Ele segue o preceito de [metodologias ágeis][agile], em particular o [Kanban][K
 # [Teams][Teams]
 [voltar][Voltar]
 
-*Teams* permite agrupar usuários e *boards*, facilitando a maneira como tarefas e informações são compartilhadas entre os usuários membros de um time.
+*Teams* permite agrupar usuários e dar a eles fácil acesso aos *boards* do time. *Boards* representam um determinado fluxo de trabalho que consista em tarefas que devem passar por várias etapas.
 
 Algumas vantages de um *team*:
 * Manter os *boards* privados, sendo visível somente aos membros desse *team*.
@@ -39,6 +39,8 @@ Algumas vantages de um *team*:
 Os *boards* representam o ambiente de trabalho onde as tarefas serão realizadas, reunindo os membros da equipe e definindo estágios de desenvolvimento para as tarefas. Nelas podemos:
 * Selecionar papéis de parede ou cores de fundo.
 * Definir as listas, que representam os estágios de desenvolvimento para as tarefas.
+* Criar cards representando tarefas
+* Mover os cards de acordo com os estágios das tarefas
 
 [Criando um board][criando-um-board]
 
@@ -114,6 +116,14 @@ Alguns *templates* prontos, com boas ideias de organização de um *Board*:
 
 4. Visualização do comentário dentro do Card
 ![passo-4]({{ site.url }}/assets/img/treinamento-trello/trello_email_4.png)
+
+## Armadilhas
+
+Existem algumas armadilhas na organização do Trello:
+* Excesso de colunas
+* Labels vs Colunas
+* Colunas subjetivas
+* *Timing* de tarefas (longas ou curtas demais)
 
 
 
